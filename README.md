@@ -25,6 +25,15 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This was one of
  ----
 📷 Screenshots
 
+<img width="1680" alt="Screenshot 2025-06-10 at 11 10 07 PM" src="https://github.com/user-attachments/assets/ae95053c-e593-4374-907a-1e19b9c482c9" />
+<img width="1680" alt="Screenshot 2025-06-10 at 11 10 24 PM" src="https://github.com/user-attachments/assets/3683a915-8030-4bd2-a520-e42c8808b4dd" />
+<img width="1680" alt="Screenshot 2025-06-10 at 11 10 40 PM" src="https://github.com/user-attachments/assets/111382b1-e441-4cc6-829c-2e555db2cb62" />
+<img width="1680" alt="Screenshot 2025-06-10 at 11 11 16 PM" src="https://github.com/user-attachments/assets/9d415c60-8684-466a-b8c5-6c4e9eb9eb89" />
+
+
+
+
+
 
 -----
 📚 What I Learned
