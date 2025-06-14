@@ -53,7 +53,7 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This was one of
 
 I’m Mohd Ahad, a beginner web developer working on hands-on projects to improve my skills.
 
-📫 Connect with me: [Your LinkedIn or Email here]
+📫 Connect with me: [syedahad2131@gmail.com]
 
 ⸻
 
